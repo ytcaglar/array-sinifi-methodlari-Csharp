@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Array Sınıfı ve Methodları/1.0.0": {
+        "runtime": {
+          "Array Sınıfı ve Methodları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Array Sınıfı ve Methodları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

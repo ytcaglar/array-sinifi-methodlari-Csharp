@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\bin\Debug\net6.0\Array Sınıfı ve Methodları.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\bin\Debug\net6.0\Array Sınıfı ve Methodları.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\bin\Debug\net6.0\Array Sınıfı ve Methodları.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\bin\Debug\net6.0\Array Sınıfı ve Methodları.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\bin\Debug\net6.0\Array Sınıfı ve Methodları.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\refint\Array Sınıfı ve Methodları.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\Array Sınıfı ve Methodları.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\Array Sınıfı ve Methodları\obj\Debug\net6.0\ref\Array Sınıfı ve Methodları.dll
